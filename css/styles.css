@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto Mono', monospace;
+    background-color: ;
 }
 
 h1 {
@@ -18,4 +19,20 @@ h1 {
     background-color: darkgrey;
     background-image: none;
     padding: 7%;
+}
+
+/* Images */
+
+img {
+    border: 3px solid #938e8e; /* Gray border */
+    border-radius: 14px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+    background-color: rgb(141, 134, 134);
+  }
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
