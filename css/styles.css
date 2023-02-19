@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+/* NavBar */
+
+#navbar {
+    font-weight: bold;
+}
+
+/* Title */
+
+#title {
+    background-color: darkgrey;
+    background-image: none;
+    padding: 7%;
+}
