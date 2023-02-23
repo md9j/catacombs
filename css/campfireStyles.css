@@ -1,0 +1,10 @@
+/* Images */
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-image:hover {
+  transform: scale(1.2);
+}

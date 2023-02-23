@@ -1,38 +1,38 @@
 body {
-    font-family: 'Roboto Mono', monospace;
-    background-color: ;
+  font-family: "Roboto Mono", monospace;
 }
 
 h1 {
-    font-family: 'Roboto Mono', monospace;
-    text-align: center;
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
 }
 /* NavBar */
 
 #navbar {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 /* Title */
 
 #title {
-    background-color: darkgrey;
-    background-image: none;
-    padding: 7%;
+  background-color: darkgrey;
+  background-image: none;
+  padding: 7%;
 }
 
 /* Images */
 
 img {
-    border: 3px solid #938e8e; /* Gray border */
-    border-radius: 14px;  /* Rounded border */
-    padding: 5px; /* Some padding */
-    width: 150px; /* Set a small width */
-    background-color: rgb(141, 134, 134);
-  }
+  border: 3px solid #938e8e; /* Gray border */
+  border-radius: 14px; /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+  background-color: rgb(141, 134, 134);
+}
 
 .center {
-    display: block;
-    margin: auto;
-    width: 50%;
+  display: block;
+  margin: auto;
+  width: 50%;
 }
+
