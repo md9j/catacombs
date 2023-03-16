@@ -53,6 +53,12 @@ h1 {
   padding: 7%;
 }
 
+#title-secondary {
+  background-color: #222529;
+  background-image: none;
+  padding: 7%;
+}
+
 /* Images */
 
 img {

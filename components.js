@@ -38,7 +38,7 @@ class Navbar extends HTMLElement {
               </a>
               <ul class="dropdown-menu">
                 <li>
-                  <a class="dropdown-item" href="stories.html">the Campfire</a>
+                  <a class="dropdown-item" href="campfire.html">the Campfire</a>
                 </li>
                 <li><a class="dropdown-item" href="#">Body Bags</a></li>
                 <li><hr class="dropdown-divider" /></li>
